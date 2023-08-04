@@ -35,4 +35,5 @@ aqui, compartilho experimentos e aprendizados dessa jornada de transição para 
  
 </div>
 
+![snake gif](https://github.com/marquesdjuiana/marquesdjuliana/blob/output/github-contribution-grid-snake.svg)
 
