@@ -1,10 +1,8 @@
 ### olá, olá! bem-vinda(o) ao meu perfil! 
 
-meu nome é Juliana Marques, historiadora de formação e atualmente estou imersa nos estudos na área de tecnologia, através da Trybe. 
-
-minha trajetória como Desenvolvedora Web Frontend está em constante evolução, enquanto busco expandir minhas habilidades para me tornar uma profissional Full-stack.
-aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar meu crescimento. Se tiver alguma sugestão, feedback ou quiser trocar conhecimentos, será um prazer conectar com você no LinkedIn!
-
+meu nome é Juliana Marques, historiadora e atualmente estou imersa nos estudos na área de tecnologia, através da Trybe. 
+nessa trajetória de estudo conclui o módulo de Desenvolvimento Web Front-End, e agora busco expandir minhas habilidades para me tornar uma profissional Full-stack.
+aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar meu crescimento. se tiver alguma sugestão, feedback ou quiser trocar conhecimentos, será um prazer conectar com você no LinkedIn!
 
 
 <br>
@@ -28,6 +26,7 @@ aqui, compartilho experimentos e aprendizados dessa jornada de transição para 
   
   ##
  <br>
+ um <i>alô</i> especial para as mulheres dá área, vamos trocar experiências? 
 <div> 
   <a href="https://instagram.com/velhaju" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marquesdjuliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
