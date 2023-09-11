@@ -1,7 +1,9 @@
 ### olá, olá! bem-vinda(o) ao meu perfil! 
 
 meu nome é Juliana Marques, historiadora com mais de oito anos de experiência em ensino em Goiás, mas atualmente estou imersa nos estudos na área de tecnologia, através da Trybe. 
+<br>
 nessa trajetória de estudo conclui o módulo de Desenvolvimento Web Front-End, e agora busco expandir minhas habilidades para me tornar uma profissional Full-stack.
+<br>
 aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar meu crescimento. se tiver alguma sugestão, feedback ou quiser trocar conhecimentos, será um prazer conectar com você no LinkedIn!
 
 
