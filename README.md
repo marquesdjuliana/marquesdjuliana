@@ -13,7 +13,7 @@ aqui, compartilho experimentos e aprendizados dessa jornada de transição para 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesdjuliana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesdjuliana&layout=compact&langs_count=10&theme=synthwave"/>
 </div>  
-<br>
+<br> 
 <div  align="center" style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
