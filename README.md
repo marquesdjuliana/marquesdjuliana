@@ -1,15 +1,18 @@
-<hr>
-<div  align="center" style="display: inline_block">
- acurar  | simplificar  | otimizar 
-</div>
-<hr>
+<hr> 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+acurar+%7C+simplificar+%7C+otimizar&color=FF69B4)](https://git.io/typing-svg)
+
+</div>
+<hr> 
+
+<br>
 <h2> olá, olá! bem-vinda(o) ao meu perfil!</h2>
 meu nome é <b>Juliana Marques</b>, sou uma goianiense com uma trajetória que abrange desde a educação até o universo da tecnologia. 
 
 - migrando para o mundo da tecnologia: ainda na educação percebi como as ferramentas digitais podem simplificar tarefas e melhorar a experiência das pessoas.
 
-- atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe.
+- atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, me dedicando aos estudos de <b>C#</b>
 
 aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar meu crescimento. se tiver alguma sugestão, feedback ou quiser trocar uma ideia, será um prazer conectar com você no LinkedIn!  
 
