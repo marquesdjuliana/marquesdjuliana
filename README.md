@@ -10,7 +10,7 @@
 <h2> olá, olá! bem-vinda(o) ao meu perfil!</h2>
 meu nome é <b>Juliana Marques</b>, sou uma goianiense com uma trajetória que abrange desde a educação até o universo da tecnologia. 
 
-- migrando para o mundo da tecnologia: ainda na educação percebi como as ferramentas digitais podem simplificar tarefas e melhorar a experiência das pessoas.
+- migrando para o mundo da tecnologia: enquanto atuava na área da educação percebi como as ferramentas digitais poderiam simplificar tarefas e melhorar a experiência das pessoas.
 
 - atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, me dedicando aos estudos de <b>C#</b>
 
