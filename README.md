@@ -12,7 +12,7 @@ meu nome é <b>Juliana Marques</b>, sou uma goianiense com uma trajetória que a
 
 - migrando para o mundo da tecnologia: enquanto atuava na área da educação percebi como as ferramentas digitais poderiam simplificar tarefas e melhorar a experiência das pessoas.
 
-- atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, me dedicando aos estudos de <b>C#</b>
+- atualmente conclui o curso de Desenvolvimento Web Full Stack pela Trybe; e estou me dedicando ao curso Análise e Desenvolvimento de Sistemas - UNINTER. 
 
 aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar meu crescimento. se tiver alguma sugestão, feedback ou quiser trocar uma ideia, será um prazer conectar com você no LinkedIn!  
 
