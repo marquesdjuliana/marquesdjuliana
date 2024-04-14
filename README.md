@@ -12,8 +12,7 @@ meu nome é <b>Juliana Marques</b>, sou uma goianiense com uma trajetória que a
 
 - transição para a tecnologia: durante minha atuação na área da educação, percebi como as ferramentas digitais poderiam simplificar tarefas e melhorar a experiência dos professores e estudantes no dia a dia. buscando melhorias específicas para o contexto da minha unidade escolar, passei a trocar ideias com os desenvolvedores responsáveis pela plataforma que usávamos. nesse ímpeto curioso, fiz um curso introdutório de JavaScript, foi quando tive meu primeiro contato com a Trybe.
 
-- formação atual: concluí o curso de Desenvolvimento Web FUll Stack peça Trybe e estou ataulmente me dedicando ao curso de Análise e d
-  Desenvolviemnto de Sistemas pela UNINTER. 
+- formação atual: concluí o curso de Desenvolvimento Web Fll Stack pela Trybe, e ataulmente me dedico ao curso de Análise e Desenvolviemnto de Sistemas - UNINTER. 
 
 aqui, compartilho experimentos e aprendizados dessa jornada de transição para o mundo da tecnologia. sinta-se à vontade para explorar meus repositórios e acompanhar minha aprendizagem. se tiver alguma sugestão, feedback ou quiser trocar uma ideia, será um prazer conectar com você no LinkedIn!  
 
